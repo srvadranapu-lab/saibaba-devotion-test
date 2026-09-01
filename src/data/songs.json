@@ -1,180 +1,184 @@
 {
-  "id": "bhajan-1",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 1",
-      "lyrics": "Gajavadana Gananatha, Gajavadana Vinayaka (2)\nSidhi Vidhatha Shiva Tanya (2)\nBudhi Pradayaka Gajanana (2)\nParvati Nandana, Bhav Bhaya Bhanjana (2)\nYuga Yuga Vanditha Jaya Sri Ganesha (2)\nGajavadana Gananatha, Gajavadana Vinayaka (2)\nGajavadana Gananatha, Gajavadana Vinayaka (2)"
+  "songs": [
+    {
+      "id": "bhajan-1",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 1",
+          "lyrics": "Gajavadana Gananatha, Gajavadana Vinayaka (2)\nSidhi Vidhatha Shiva Tanya (2)\nBudhi Pradayaka Gajanana (2)\nParvati Nandana, Bhav Bhaya Bhanjana (2)\nYuga Yuga Vanditha Jaya Sri Ganesha (2)\nGajavadana Gananatha, Gajavadana Vinayaka (2)\nGajavadana Gananatha, Gajavadana Vinayaka (2)"
+        }
+      }
+    },
+    {
+      "id": "bhajan-2",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 2",
+          "lyrics": "Sai Gajanana deenavana\nSai Gajanana deenavana\nSindhuravadana shrithajana pavana\nSai Gajanana deenavana\nAmbikathanaya amradheeswara\nAganithagunagana aananda dayaka"
+        }
+      }
+    },
+    {
+      "id": "bhajan-3",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 3",
+          "lyrics": "Jai Ganaraya Sri Ganaraya (2)\nJai Ganaraya Sri Ganaraya Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nSiddhi Vinayaka Bhudi Pradayaka (2)\nSiddhi Vinayaka Bhudi Pradayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nVigna Vinashaka Vidya Dayaka\nVigna Vinashaka Vidya Dayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nMangala Dayaka Moksha pradayaka (2)\nMangala Dayaka Moksha pradayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)"
+        }
+      }
+    },
+    {
+      "id": "bhajan-4",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 4",
+          "lyrics": "Amba Mandahasa Vadani Manohari Sai Jagajjanani\nMaatha Maatha Maatha Jagajjanani //Amba//\nJagajjanani Shubhakarini\nJagajjanani Shubhakarini\nAmba Sai Jagannatha Mampahi Jagannatha\nAmba Sai Jagannatha Mampahi Jagannatha\nAmba Mandahaasa vadani manohari Sai Jagajjanani"
+        }
+      }
+    },
+    {
+      "id": "bhajan-5",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 5",
+          "lyrics": "Tame Bolo Maeri Rana Sai Re Sai\nTame Bolo Maeri Rasna Hari Re Hari\nTame Hari Hari Bolo, Tame Har Har Bolo\nTame Bolo Mari Rasna Sai Re Sai\nTame Sai Sai Bolo, Tame Baba Baba Bolo\nTame Bolo Re Mari Rasna, Dutta Jay Guru... Tame...\nTame Dutta Dutta Bolo, Tame Digambar Bolo\nSurya Swarupa Sai, Chandra Swarupa Sai\nPrema Swarupa Sai, Satya Swarupa Sai\nDharti Swarupa Sai, Ambar Swarupa Sai... Tame...\nDharma Swarupa Sai, Karma Swarupa Sai\nShakti Swarupa Sai, Dhukha Swarupa Sai\nJivan Swarupa Sai, Mrityu Swarupa Sai\nBhakti Swarupa Sai, Mukti Swarupa Sai\nTame Bolo Mari Rasna Sai Re Sai\nTame Sai Sai Bolo, Tame Baba Baba Bolo"
+        }
+      }
+    },
+    {
+      "id": "bhajan-6",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 6",
+          "lyrics": "Mera Bhola Baba Ko\nMera Bhola Baba Ko, Anadi Na Samjho\nAnadi Na Samjho Anadi Na Samjho\nJholay Lakar Aaya, Magar Bhikari Na Samjho\nBhikari Na Samjho Bhikari Na Samjho\nTrishul Lakar Aaya, Magar Shikari Na Samjho\nShikari Na Samjho Shikari Na Samjho\nBhang Pikar Aaya, Magar Sharabi Na Samjho\nSharabi Na Samjho Sharabi Na Samjho\nBhabhut Lagakar Aaya, Magar Agyani Na Samjho\nAgyani Na Samjho, Agyani Na Samjho\nDamru Le Kar Aaya, Magar Madari Na Samjho\nMadari Na Samjho, Madari Na Samjho"
+        }
+      }
+    },
+    {
+      "id": "bhajan-7",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 7",
+          "lyrics": "Govinda Madhava, Gopala Keshava (2)\nSainatha Madhava Shirdiwasa Keshava (2)\nJaya Nanda Mukunda, Nanda Govinda Radhe Gopala (2)\nGiridhari, Giridhari, Jaya Radhe Gopala (2)\nGhanaShyam Shyam Shyam Jaya Jaya Sai Gopala (2)\nJaya Nanda Mukunda, Nanda Govinda Radhe Gopala (2)\nKeshava Madhava, Keshava Madhava\nGovinda Madhava, Gopala Kesava (2)"
+        }
+      }
+    },
+    {
+      "id": "bhajan-8",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 8",
+          "lyrics": "Gurur Brahma Gurur Vishnu\nGurur Devo Maheshwaraha\nGuru Shakshath Para Brahma Thasmai Sri Gurave Namaha (3)\nManasa Bhajare Guru Charanam (2)\nDustara Bhava Sagara Tharanam\nGuru Maharaj Guru Jai Jai\nSai Natha Sadguru Jai Jai\nOm Namah Shivaya (3) Shivaya Namah\nOm Arunachala Shiva (3) Aruna Shiva Om\nOmkaram Bhava (3) Om Namo Baba\nManasa Bhajare Guru Charanam (2)\nDustara Bhava Sagara Tharanam"
+        }
+      }
+    },
+    {
+      "id": "bhajan-9",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 9",
+          "lyrics": "Sai Deva Omkara Roopa\nDeva Deva Maam Paahi Sharanam (2)\nSri Guru Charanam Bhavapaapa Haranam,\nKaruna Bharanam Sri Sai Charanam (2)\nParama Pavitram Sri Guru SmaraNam,\nAnantha Roopam Sri Sai CharaNam (2)\n\nNirupama Yogam Sri Guru Smaranam\nAkhanda Tejam Sri Sai Charanam (2)\n\nMoksha Swaroopam Sri Guru Smaranam\nVaikunta Dhamam Sri Sai Charanam (2)\n\nMadhura Sudhamam Sri Guru Smaranam\nMunjiana Paalam Sri Sai Charanam (2)\n\nEeshwara roopam Sri Sai Smaranam\nMukti Ki Margam Sri Sai Charanam (2)\n\nShridivasa Sainatha Deva Deva Pahimam\nDeva Deva Sainatha Shridivasa Rakshamam (2)\nSainatha Pahimam Shridivasa Rakshamam\nShridivasa Pahimam Sainatha Rakshamam (2)\n\nSai Deva Omkara Roopa\nDeva Deva Mampahi Sharanam (2)"
+        }
+      }
+    },
+    {
+      "id": "bhajan-10",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 10",
+          "lyrics": "Oh Bhagvaan-3 Sai Baba Bhagvaan (1)\nOh Bhagvaan-3 Sai Rama Bhagvaan (1)\nOh Bhagvaan-3 Sai Krishna Bhagvaan (1)\nOh Bhagvaan-3 Sai Dattaha Bhagvaan (1)\nPrema Bhagavaan Jyothi Bhagavaan Athma Bhagavaan\nParamathma Bhagavaan\nNanda Bhagavaan Ananda Bhagavaan Nithya Nanda Bhagavaan\nBrahma Nanda Bhagavaan\nAyodhya Bhagavaan Dwaraka Bhagavaan Shirdi Bhagavaan Sri Sai Bhagavaan\nAaja Bhagavaan -3 Edhar Aaja Bhagavaan"
+        }
+      }
+    },
+    {
+      "id": "bhajan-11",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 11",
+          "lyrics": "Sai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba"
+        }
+      }
+    },
+    {
+      "id": "bhajan-12",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 12",
+          "lyrics": "Sai Raham Nazar karna, Baachon ka Paalan Karna.\nJaana Tumne Jagapaasara, Sabhi Jhoot Jamana II Sai\nMain Andha hoon Banda Aapka, Mujhko Prabhu Dikhlaana II Sai\nDass Ganu kahe Ab kya Booloon, Thak Gayi Meri Rasna II Sai"
+        }
+      }
+    },
+    {
+      "id": "bhajan-13",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 13",
+          "lyrics": "Gam Ganapathi namo namah\nSri Sidhi Vinayaka namo namah\nAsta Vinayaka namo namah\nGanapati Bappa moriya"
+        }
+      }
+    },
+    {
+      "id": "bhajan-14",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 14",
+          "lyrics": "Ganesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha"
+        }
+      }
+    },
+    {
+      "id": "bhajan-15",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 15",
+          "lyrics": "Gowri nandana Gajanana\nGirija nandina Niranjana\nGowri nandana Gajanana\nParvathi nandana shubhanana\nPahi prabhoma, pahi prasanna\nGowri nandana......... //Repeat faster//"
+        }
+      }
+    },
+    {
+      "id": "bhajan-16",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 16",
+          "lyrics": "Mangala Charana Gajanana\nGajavadana Shubhanana\nMangala Charana Gajanana\n\nVidyadayaka Buddhidayaka \nGowri Tanaya Gajanana (2)\nLambodara Hey Gajanana\nGajavadana Shubhanana //Mangal//\n\nShubhakaranam Hey Dukhavinasaka \nAishwaryaka Gajanana (2)\nSindhuravadana Gajanana\nGajavadana Shubhanana //Mangal//\n\nVighna Vinashaka Punyapala Palaka \nSiddhi Vinayaka Gajanana (2)\nSukshmambardhara Gajanana\nGajavadana Shubhanana\nMangala Charana Gajanana"
+        }
+      }
+    },
+    {
+      "id": "bhajan-17",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 17",
+          "lyrics": "Brahmanda nayaka Baba Shirdi pureeshwara Baba\nBaba Sai Baba, Baba Sai Baba //Brahmanda//\nChand aur sooraj tumne banayi nadiya sagar tumne banayi //brahmanda//\nAyodhya nagari tumne banayi Dwaraka nagari tumne banayi\nbanayi //Brahmanda//"
+        }
+      }
+    },
+    {
+      "id": "bhajan-18",
+      "type": "per-language",
+      "translations": {
+        "en": {
+          "title": "Bhajan No. 18",
+          "lyrics": "Achutham Keshavam Rama Narayanam\nKrishna Damodaram Vasudevam bhaje\nSreedharam Maadhavam Gopika Vallabham\nJanaki nayakam Sadguru namakam\nRamachandram bhaje Ramachandram bhaje"
+        }
+      }
     }
-  }
-},
-{
-  "id": "bhajan-2",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 2",
-      "lyrics": "Sai Gajanana deenavana\nSai Gajanana deenavana\nSindhuravadana shrithajana pavana\nSai Gajanana deenavana\nAmbikathanaya amradheeswara\nAganithagunagana aananda dayaka"
-    }
-  }
-},
-{
-  "id": "bhajan-3",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 3",
-      "lyrics": "Jai Ganaraya Sri Ganaraya (2)\nJai Ganaraya Sri Ganaraya Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nSiddhi Vinayaka Bhudi Pradayaka (2)\nSiddhi Vinayaka Bhudi Pradayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nVigna Vinashaka Vidya Dayaka\nVigna Vinashaka Vidya Dayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)\nMangala Dayaka Moksha pradayaka (2)\nMangala Dayaka Moksha pradayaka Ganapathi Bappa Moria (2)\nMoria Moria Ganapathi Bappa Moria (2)"
-    }
-  }
-},
-{
-  "id": "bhajan-4",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 4",
-      "lyrics": "Amba Mandahasa Vadani Manohari Sai Jagajjanani\nMaatha Maatha Maatha Jagajjanani //Amba//\nJagajjanani Shubhakarini\nJagajjanani Shubhakarini\nAmba Sai Jagannatha Mampahi Jagannatha\nAmba Sai Jagannatha Mampahi Jagannatha\nAmba Mandahaasa vadani manohari Sai Jagajjanani"
-    }
-  }
-},
-{
-  "id": "bhajan-5",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 5",
-      "lyrics": "Tame Bolo Maeri Rana Sai Re Sai\nTame Bolo Maeri Rasna Hari Re Hari\nTame Hari Hari Bolo, Tame Har Har Bolo\nTame Bolo Mari Rasna Sai Re Sai\nTame Sai Sai Bolo, Tame Baba Baba Bolo\nTame Bolo Re Mari Rasna, Dutta Jay Guru... Tame...\nTame Dutta Dutta Bolo, Tame Digambar Bolo\nSurya Swarupa Sai, Chandra Swarupa Sai\nPrema Swarupa Sai, Satya Swarupa Sai\nDharti Swarupa Sai, Ambar Swarupa Sai... Tame...\nDharma Swarupa Sai, Karma Swarupa Sai\nShakti Swarupa Sai, Dhukha Swarupa Sai\nJivan Swarupa Sai, Mrityu Swarupa Sai\nBhakti Swarupa Sai, Mukti Swarupa Sai\nTame Bolo Mari Rasna Sai Re Sai\nTame Sai Sai Bolo, Tame Baba Baba Bolo"
-    }
-  }
-},
-{
-  "id": "bhajan-6",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 6",
-      "lyrics": "Mera Bhola Baba Ko\nMera Bhola Baba Ko, Anadi Na Samjho\nAnadi Na Samjho Anadi Na Samjho\nJholay Lakar Aaya, Magar Bhikari Na Samjho\nBhikari Na Samjho Bhikari Na Samjho\nTrishul Lakar Aaya, Magar Shikari Na Samjho\nShikari Na Samjho Shikari Na Samjho\nBhang Pikar Aaya, Magar Sharabi Na Samjho\nSharabi Na Samjho Sharabi Na Samjho\nBhabhut Lagakar Aaya, Magar Agyani Na Samjho\nAgyani Na Samjho, Agyani Na Samjho\nDamru Le Kar Aaya, Magar Madari Na Samjho\nMadari Na Samjho, Madari Na Samjho"
-    }
-  }
-},
-{
-  "id": "bhajan-7",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 7",
-      "lyrics": "Govinda Madhava, Gopala Keshava (2)\nSainatha Madhava Shirdiwasa Keshava (2)\nJaya Nanda Mukunda, Nanda Govinda Radhe Gopala (2)\nGiridhari, Giridhari, Jaya Radhe Gopala (2)\nGhanaShyam Shyam Shyam Jaya Jaya Sai Gopala (2)\nJaya Nanda Mukunda, Nanda Govinda Radhe Gopala (2)\nKeshava Madhava, Keshava Madhava\nGovinda Madhava, Gopala Kesava (2)"
-    }
-  }
-},
-{
-  "id": "bhajan-8",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 8",
-      "lyrics": "Gurur Brahma Gurur Vishnu\nGurur Devo Maheshwaraha\nGuru Shakshath Para Brahma Thasmai Sri Gurave Namaha (3)\nManasa Bhajare Guru Charanam (2)\nDustara Bhava Sagara Tharanam\nGuru Maharaj Guru Jai Jai\nSai Natha Sadguru Jai Jai\nOm Namah Shivaya (3) Shivaya Namah\nOm Arunachala Shiva (3) Aruna Shiva Om\nOmkaram Bhava (3) Om Namo Baba\nManasa Bhajare Guru Charanam (2)\nDustara Bhava Sagara Tharanam"
-    }
-  }
-},
-{
-  "id": "bhajan-9",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 9",
-      "lyrics": "Sai Deva Omkara Roopa\nDeva Deva Maam Paahi Sharanam (2)\nSri Guru Charanam Bhavapaapa Haranam,\nKaruna Bharanam Sri Sai Charanam (2)\nParama Pavitram Sri Guru SmaraNam,\nAnantha Roopam Sri Sai CharaNam (2)\n\nNirupama Yogam Sri Guru Smaranam\nAkhanda Tejam Sri Sai Charanam (2)\n\nMoksha Swaroopam Sri Guru Smaranam\nVaikunta Dhamam Sri Sai Charanam (2)\n\nMadhura Sudhamam Sri Guru Smaranam\nMunjiana Paalam Sri Sai Charanam (2)\n\nEeshwara roopam Sri Sai Smaranam\nMukti Ki Margam Sri Sai Charanam (2)\n\nShridivasa Sainatha Deva Deva Pahimam\nDeva Deva Sainatha Shridivasa Rakshamam (2)\nSainatha Pahimam Shridivasa Rakshamam\nShridivasa Pahimam Sainatha Rakshamam (2)\n\nSai Deva Omkara Roopa\nDeva Deva Mampahi Sharanam (2)"
-    }
-  }
-},
-{
-  "id": "bhajan-10",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 10",
-      "lyrics": "Oh Bhagvaan-3 Sai Baba Bhagvaan (1)\nOh Bhagvaan-3 Sai Rama Bhagvaan (1)\nOh Bhagvaan-3 Sai Krishna Bhagvaan (1)\nOh Bhagvaan-3 Sai Dattaha Bhagvaan (1)\nPrema Bhagavaan Jyothi Bhagavaan Athma Bhagavaan\nParamathma Bhagavaan\nNanda Bhagavaan Ananda Bhagavaan Nithya Nanda Bhagavaan\nBrahma Nanda Bhagavaan\nAyodhya Bhagavaan Dwaraka Bhagavaan Shirdi Bhagavaan Sri Sai Bhagavaan\nAaja Bhagavaan -3 Edhar Aaja Bhagavaan"
-    }
-  }
-},
-{
-  "id": "bhajan-11",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 11",
-      "lyrics": "Sai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba\nSai Baba Sai Baba Sai Baba Sai Baba"
-    }
-  }
-},
-{
-  "id": "bhajan-12",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 12",
-      "lyrics": "Sai Raham Nazar karna, Baachon ka Paalan Karna.\nJaana Tumne Jagapaasara, Sabhi Jhoot Jamana II Sai\nMain Andha hoon Banda Aapka, Mujhko Prabhu Dikhlaana II Sai\nDass Ganu kahe Ab kya Booloon, Thak Gayi Meri Rasna II Sai"
-    }
-  }
-},
-{
-  "id": "bhajan-13",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 13",
-      "lyrics": "Gam Ganapathi namo namah\nSri Sidhi Vinayaka namo namah\nAsta Vinayaka namo namah\nGanapati Bappa moriya"
-    }
-  }
-},
-{
-  "id": "bhajan-14",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 14",
-      "lyrics": "Ganesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nGanesha Sharanam Sharanam Ganesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha\nSaiesha Shranam Sharanam Saiesha"
-    }
-  }
-},
-{
-  "id": "bhajan-15",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 15",
-      "lyrics": "Gowri nandana Gajanana\nGirija nandina Niranjana\nGowri nandana Gajanana\nParvathi nandana shubhanana\nPahi prabhoma, pahi prasanna\nGowri nandana......... //Repeat faster//"
-    }
-  }
-},
-{
-  "id": "bhajan-16",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 16",
-      "lyrics": "Mangala Charana Gajanana\nGajavadana Shubhanana\nMangala Charana Gajanana\n\nVidyadayaka Buddhidayaka \nGowri Tanaya Gajanana (2)\nLambodara Hey Gajanana\nGajavadana Shubhanana //Mangal//\n\nShubhakaranam Hey Dukhavinasaka \nAishwaryaka Gajanana (2)\nSindhuravadana Gajanana\nGajavadana Shubhanana //Mangal//\n\nVighna Vinashaka Punyapala Palaka \nSiddhi Vinayaka Gajanana (2)\nSukshmambardhara Gajanana\nGajavadana Shubhanana\nMangala Charana Gajanana"
-    }
-  }
-},
-{
-  "id": "bhajan-17",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 17",
-      "lyrics": "Brahmanda nayaka Baba Shirdi pureeshwara Baba\nBaba Sai Baba, Baba Sai Baba //Brahmanda//\nChand aur sooraj tumne banayi nadiya sagar tumne banayi //brahmanda//\nAyodhya nagari tumne banayi Dwaraka nagari tumne banayi\nbanayi //Brahmanda//"
-    }
-  }
-},
-{
-  "id": "bhajan-18",
-  "type": "per-language",
-  "translations": {
-    "en": {
-      "title": "Bhajan No. 18",
-      "lyrics": "Achutham Keshavam Rama Narayanam\nKrishna Damodaram Vasudevam bhaje\nSreedharam Maadhavam Gopika Vallabham\nJanaki nayakam Sadguru namakam\nRamachandram bhaje Ramachandram bhaje"
-    }
-  }
+  ]
 }
