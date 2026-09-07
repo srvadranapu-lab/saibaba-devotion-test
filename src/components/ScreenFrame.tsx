@@ -7,11 +7,13 @@ export function ScreenFrame({
   title,
   subtitle,
   children,
+  customNav,
 }: {
   lang: Lang;
   title?: string;
   subtitle?: string;
   children: ReactNode;
+  customNav?: ReactNode;
 }) {
   const router = useRouter();
   const t = UI[lang];
@@ -38,19 +40,23 @@ export function ScreenFrame({
 
       <nav className="fixed inset-x-0 bottom-0 border-t border-border bg-card/95 backdrop-blur">
         <div className="mx-auto flex w-full max-w-2xl gap-3 px-5 py-3">
-          <button
-            type="button"
-            onClick={() => router.history.back()}
-            className="flex-1 rounded-xl border border-border bg-secondary px-4 py-3 text-base font-medium text-secondary-foreground transition-colors hover:bg-accent"
-          >
-            {t.previous}
-          </button>
-          <Link
-            to="/"
-            className="flex-1 rounded-xl bg-primary px-4 py-3 text-center text-base font-medium text-primary-foreground transition-opacity hover:opacity-90"
-          >
-            {t.exit}
-          </Link>
+          {customNav || (
+            <>
+              <button
+                type="button"
+                onClick={() => router.history.back()}
+                className="flex-1 rounded-xl border border-border bg-secondary px-4 py-3 text-base font-medium text-secondary-foreground transition-colors hover:bg-accent"
+              >
+                {t.previous}
+              </button>
+              <Link
+                to="/"
+                className="flex-1 rounded-xl bg-primary px-4 py-3 text-center text-base font-medium text-primary-foreground transition-opacity hover:opacity-90"
+              >
+                {t.exit}
+              </Link>
+            </>
+          )}
         </div>
       </nav>
     </div>

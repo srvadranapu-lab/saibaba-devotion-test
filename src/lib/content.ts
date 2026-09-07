@@ -21,7 +21,7 @@ export const LANGUAGE_NAME_IN_LANG: Record<Lang, string> = {
   te: "తెలుగు",
 };
 
-export const TOTAL_CHAPTERS = 51;
+export const TOTAL_CHAPTERS = 48;
 
 type Strings = {
   chooseLanguage: string;
@@ -43,7 +43,7 @@ export const UI: Record<Lang, Strings> = {
     chooseLanguage: "Choose Language",
     stories: "Sai Satcharitra Stories",
     songs: "Sai Devotional Songs",
-    storiesSub: "51 chapters",
+    storiesSub: "48 chapters",
     songsSub: "Aarti, abhang and chalisa",
     previous: "Previous",
     exit: "Exit",
@@ -57,7 +57,7 @@ export const UI: Record<Lang, Strings> = {
     chooseLanguage: "भाषा चुनें",
     stories: "साईं सच्चरित्र कथाएँ",
     songs: "साईं भक्ति गीत",
-    storiesSub: "51 अध्याय",
+    storiesSub: "48 अध्याय",
     songsSub: "आरती, अभंग और चालीसा",
     previous: "पिछला",
     exit: "बाहर",
@@ -71,7 +71,7 @@ export const UI: Record<Lang, Strings> = {
     chooseLanguage: "భాషను ఎంచుకోండి",
     stories: "సాయి సచ్చరిత్ర కథలు",
     songs: "సాయి భక్తి గీతాలు",
-    storiesSub: "51 అధ్యాయాలు",
+    storiesSub: "48 అధ్యాయాలు",
     songsSub: "ఆరతి, అభంగ్, చాలీసా",
     previous: "వెనుకకు",
     exit: "నిష్క్రమణ",
