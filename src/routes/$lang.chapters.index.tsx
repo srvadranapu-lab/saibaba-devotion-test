@@ -15,12 +15,12 @@ export const Route = createFileRoute("/$lang/chapters/")({
       { title: "Sai Satcharitra Chapters — Sai Baba Devotional App" },
       {
         name: "description",
-        content: "Browse all 48 chapters of Sai Satcharitra and read them in your language.",
+        content: "Browse all 51 chapters of Sai Satcharitra and read them in your language.",
       },
       { property: "og:title", content: "Sai Satcharitra Chapters" },
       {
         property: "og:description",
-        content: "Browse all 48 chapters of Sai Satcharitra and read them in your language.",
+        content: "Browse all 51 chapters of Sai Satcharitra and read them in your language.",
       },
     ],
   }),
